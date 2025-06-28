@@ -1,0 +1,1 @@
+alert('Pesanan berhasil dikirim!'); window.location='dashboard.php';

@@ -1,0 +1,1 @@
+alert('Username atau password salah!'); window.location.href='login.php';

@@ -1,0 +1,64 @@
+body {
+      font-family: 'Nunito', sans-serif;
+      min-height: 100vh;
+      margin: 0;
+      background: linear-gradient(to right, #f8f9fa, #e9ecef);
+    }
+
+    .sidebar {
+      height: 100vh;
+      background-color: #343a40;
+      padding-top: 20px;
+    }
+
+    .sidebar a {
+      color: #ffffff;
+      padding: 12px 20px;
+      display: block;
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    .sidebar a:hover {
+      background-color: #495057;
+    }
+
+    .logo {
+      display: block;
+      margin: 0 auto 20px auto;
+      width: 80px;
+    }
+
+    .main-content {
+      padding: 40px 20px;
+    }
+
+    .description-card {
+      background-color: #ffffff;
+      border-radius: 15px;
+      padding: 30px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .description-card h2 {
+      font-weight: 800;
+      margin-bottom: 20px;
+      color: #343a40;
+    }
+
+    .description-card p {
+      font-size: 1.1rem;
+      line-height: 1.7;
+      color: #555;
+    }
+
+    .contact-info h5 {
+      margin-top: 25px;
+      font-weight: 700;
+      color: #212529;
+    }
+
+    .contact-info p {
+      font-size: 1rem;
+      color: #333;
+    }
