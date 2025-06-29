@@ -39,7 +39,7 @@ esbatu/
 │   ├── pelanggan_input.php
 │   ├── hapus_pesanan.php
 │   └── selesai_pesanan.php
-└── assets/ (jika ada file tambahan: css/js/gambar)
+└── assets/
 ```
 
  ⚙️ Cara Menjalankan
